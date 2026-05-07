@@ -1,0 +1,10 @@
+# Pi-hole regex allowlist
+# format: status|domain|comment
+
+enabled|(\.|^)cloundfront\.net$|
+enabled|(\.|^)googleadservices\.com$|
+enabled|(\.|^)samsungcloudsolution\.net$|Samsung TV
+enabled|(\.|^)samsungqbe\.com$|Samsung TV
+enabled|(\.|^)www\.api\.ing\.carrier\.com$|
+enabled|^[^.]+\.cws\.conviva\.com$|
+enabled|g[^.]+-vod-us-cmaf-prd-mc.cdn.peacocktv.com|Peacock

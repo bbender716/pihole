@@ -1,0 +1,33 @@
+# Pi-hole blocklist
+# format: status|domain|comment
+
+enabled|availability-fastly.syncbak-mediastore-cedexis.cbsaavideo.com|
+enabled|cbsi.demdex.net|
+enabled|cdn.privacy.paramount.com|
+enabled|enduser.adsrvr.org|
+enabled|g001-sle-us-cmaf-prd-ak.cdn.peacocktv.com|
+enabled|g001-sle-us-cmaf-prd-cf.cdn.peacocktv.com|
+enabled|g002-sle-us-cmaf-prd-ak.cdn.peacocktv.com|
+enabled|g002-sle-us-cmaf-prd-cf.cdn.peacocktv.com|
+enabled|g003-sle-us-cmaf-prd-ak.cdn.peacocktv.com|
+enabled|g003-sle-us-cmaf-prd-cf.cdn.peacocktv.com|
+enabled|g004-sle-us-cmaf-prd-ak.cdn.peacocktv.com|
+enabled|g004-sle-us-cmaf-prd-cf.cdn.peacocktv.com|
+enabled|g005-sle-us-cmaf-prd-ak.cdn.peacocktv.com|
+enabled|g005-sle-us-cmaf-prd-cf.cdn.peacocktv.com|
+enabled|g006-sle-us-cmaf-prd-ak.cdn.peacocktv.com|
+enabled|g006-sle-us-cmaf-prd-cf.cdn.peacocktv.com|
+enabled|g007-sle-us-cmaf-prd-ak.cdn.peacocktv.com|
+enabled|g007-sle-us-cmaf-prd-cf.cdn.peacocktv.com|
+enabled|g008-sle-us-cmaf-prd-ak.cdn.peacocktv.com|
+enabled|g008-sle-us-cmaf-prd-cf.cdn.peacocktv.com|
+enabled|imasdk.googleapis.com|
+enabled|mask-h2.icloud.com|
+enabled|mt.ssai.peacocktv.com|
+enabled|notifications-pusher.gog.com|Added from Query Log
+enabled|pagead2.googlesyndication.com|
+enabled|rtb.adgrx.com|
+enabled|tvx.adgrx.com|
+enabled|vod-gcs-google.cbsaavideo.com|
+enabled|vod-gcs-qwilt.cbsaavideo.com|
+enabled|www.googletagmanager.com|

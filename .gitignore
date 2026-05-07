@@ -1,0 +1,44 @@
+# === NEVER COMMIT THESE ===
+
+# DNS query history database
+pihole-FTL.db
+pihole-FTL.db-shm
+pihole-FTL.db-wal
+
+# Gravity (blocklist) database — exported as .txt files instead
+gravity.db
+gravity_old.db
+gravity_backups/
+
+# TLS certificates and private keys
+tls.crt
+tls.pem
+tls_ca.crt
+
+# Passwords
+cli_pw
+
+# DHCP leases (MAC addresses + IP assignments)
+dhcp.leases
+
+# Auto-generated / dynamic files
+local.list
+versions
+ftlbranch
+
+# Downloaded list cache (huge, auto-refreshed by pihole -g)
+listsCache/
+
+# Config backups (redundant with git history)
+config_backups/
+
+# Install artifacts
+install.log
+migration_backup/
+migration_backup_v6/
+
+# macvendor binary DB
+macvendor.db
+
+# Official pihole scripts (managed by pihole -up, not user-modified)
+opt-pihole/

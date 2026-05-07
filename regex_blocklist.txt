@@ -1,0 +1,12 @@
+# Pi-hole regex blocklist
+# format: status|domain|comment
+
+enabled|(\.|^)conviva\.com$|
+enabled|(\.|^)doubleverify\.com$|
+enabled|(\.|^)imrworldwide\.com$|
+enabled|(\.|^)omtrdc\.net$|
+enabled|(\.|^)scorecardresearch\.com$|
+enabled|^([^.]+\.)*disneyadvertising\.com$|
+enabled|^g\d+-vod-.+\.cdn\.peacocktv\.com$|Peacock
+enabled|g[^.]+-vod-us-cmaf-prd-[^.]+.cdn.peacocktv.com|Peacock
+enabled|https://perflyst.github.io/PiHoleBlocklist/regex.list|
