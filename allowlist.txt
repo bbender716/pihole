@@ -112,6 +112,7 @@ enabled|evyy.net|
 enabled|fonts.gstatic.com|Owned by Google. Used to deliver Google Fonts. - qjz9zk
 enabled|forums.sonarr.tv|Sonarr is a PVR for Usenet and BitTorrent users. It can monitor multiple RSS feeds for new episodes of your favorite shows and will grab, sort and rename them. It can also be configured to automatically upgrade the quality of files already downloaded when a better quality format becomes available. - qjz9zk
 enabled|g.live.com|Used by Microsoft for their Outlook.com and OneDrive products. Backup bitlocker recovery key to Microsoft account. - qjz9zk
+enabled|g001-vod-us-cmaf-prd-fy.cdn.peacocktv.com|Added from Query Log
 enabled|gan.doubleclick.net|
 enabled|gdlp01.c-wss.com|
 enabled|geo-prod.do.dsp.mp.microsoft.com|Enables connections to Windows Update. - qjz9zk
