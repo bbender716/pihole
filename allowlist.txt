@@ -88,6 +88,7 @@ enabled|def-vef.xboxlive.com|Owned by Microsoft. Used for Xbox updates, game dow
 enabled|delivery.vidible.tv|Video delivery systems, popular in entertainment and news sites. - qjz9zk
 enabled|dev.virtualearth.net|Owned by Microsoft. Used by Bing Maps to get information about various places. For example, this domain should be whitelisted in order to select a store location on costco.com.  - qjz9zk
 enabled|device.auth.xboxlive.com|Owned by Microsoft. Used for Xbox updates, game downloads, acheivements unlocking etc. - qjz9zk
+enabled|discover.provider.plex.tv|
 enabled|disney.my.sentry.io|Added from Query Log
 enabled|display.ugc.bazaarvoice.com|To display Ratings &amp; Reviews or Questions &amp; Answers in online stores. - qjz9zk
 enabled|displaycatalog.mp.microsoft.com|Owned by Microsoft. Used for Xbox updates, game downloads, acheivements unlocking etc. - qjz9zk
@@ -105,6 +106,7 @@ enabled|ecn.dev.virtualearth.net|Owned by Microsoft. Used by Bing Maps to get in
 enabled|edge.api.brightcove.com|Video delivery systems, popular in entertainment and news sites. - qjz9zk
 enabled|eds.xboxlive.com|Owned by Microsoft. Used for Xbox updates, game downloads, acheivements unlocking etc. - qjz9zk
 enabled|emjcd.com|
+enabled|epg.provider.plex.tv|
 enabled|et.tidal.com|Added from Query Log
 enabled|eventbus.intuit.com|Added from Query Log
 enabled|events.prd.api.discomax.com|Added from Query Log
@@ -160,6 +162,7 @@ enabled|meg.disco.peacocktv.com|
 enabled|meta-db-worker02.pop.ric.plex.bz|Plex is a client&ndash;server media player system plus an ancillary software suite. - qjz9zk
 enabled|meta.plex.bz|Plex is a client&ndash;server media player system plus an ancillary software suite. - qjz9zk
 enabled|meta.plex.tv|Plex is a client&ndash;server media player system plus an ancillary software suite. - qjz9zk
+enabled|metadata.provider.plex.tv|
 enabled|metrics.plex.tv|
 enabled|microsoftonline.com|Owned by Microsoft. This domain is checked by the operating systems when connecting via wifi, and if they do not get the response they expect, they may try to open a wifi login page or similar as they believe they are located behind a captive portal. - qjz9zk
 enabled|mobile.pipe.aria.microsoft.com|Added from Query Log
@@ -261,6 +264,7 @@ enabled|track.webgains.com|
 enabled|tradetracker.net|
 enabled|traffic.libsyn.com|Used in Pocketcasts app to serve and download podcasts. - qjz9zk
 enabled|trk.klclick.com|Added from Query Log
+enabled|tv.plex.provider.plex.tv|
 enabled|tvdb2.plex.tv|Plex is a client&ndash;server media player system plus an ancillary software suite. - qjz9zk
 enabled|tvthemes.plexapp.com|Plex is a client&ndash;server media player system plus an ancillary software suite. - qjz9zk
 enabled|twimg.com|Owned by Twitter. Used to deliver media on Twitter. - qjz9zk
