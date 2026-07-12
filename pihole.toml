@@ -1,7 +1,7 @@
-# Pi-hole configuration file (v6.6.2)
+# Pi-hole configuration file (v6.7)
 # Encoding: UTF-8
 # This file is managed by pihole-FTL
-# Last updated on 2026-06-10 09:11:59 CDT
+# Last updated on 2026-07-06 22:56:06 CDT
 
 [dns]
   # Upstream DNS Servers to be used by Pi-hole. If this is not set, Pi-hole will not
@@ -1050,7 +1050,7 @@
     # FTL (typically 'pihole'). This option is only required when at least one of
     # webserver.port is TLS. The file must be in PEM format, and it must have both,
     # private key and certificate (the *.pem file created must contain a 'CERTIFICATE'
-    # section as well as a 'RSA PRIVATE KEY' section).
+    # section as well as a 'PRIVATE KEY' section).
     #
     # The *.pem file can be created using `cp server.crt server.pem && cat server.key >>
     # server.pem` if you have these files instead
@@ -1729,12 +1729,21 @@
   #     true or false
   timing = false
 
+  # Log gravity lookup and FTL DNS cache performance statistics every 5 minutes. For each
+  # operation type (gravity, antigravity, denylist, allowlist), reports the call count,
+  # average and maximum latency, and percentage of slow queries (>1 ms). Also reports
+  # the FTL cache hit/miss ratio, indicating how often gravity.db is queried at all.
+  #
+  # Allowed values are:
+  #     true or false
+  performance = false
+
   # Set all debug flags at once. This is a convenience option to enable all debug flags
   # at once. Note that this option is not persistent, setting it to true will enable all
   # *remaining* debug flags but unsetting it will disable *all* debug flags.
   all = false
 
 # Configuration statistics:
-# 166 total entries out of which 147 entries are default
+# 167 total entries out of which 148 entries are default
 # --> 19 entries are modified
 
